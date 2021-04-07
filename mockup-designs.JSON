@@ -1,0 +1,790 @@
+{
+  "3-column preview card component": {
+     "title": "3-column preview card component",
+     "langs": [
+        "CSS",
+        "HTML"
+     ],
+     "price": "free",
+     "info": "This challenge is perfect if you're just getting started. The shift between the layouts will be a nice test if you're new to building responsive projects.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/juir90bwmmvlo86g9paz.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Typemaster pre-launch landing page": {
+     "title": "Typemaster pre-launch landing page",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "premium",
+     "info": "This project will be a perfect opportunity to put your CSS Grid skills to the test. The layout shifts from mobile, to tablet, to desktop will also be a nice challenge.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/h5oer4lxahk5ccqvyowy.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Blogr landing page": {
+     "title": "Blogr landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "Flex your layout muscles with this landing page challenge. You'll mostly be working with HTML &amp; CSS for this project with a tiny bit of JS for the mobile menu.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/wdor1bppurckam2nrhwn.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Invoice app": {
+     "title": "Invoice app",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This invoicing app project will test you on many levels. You'll be working with JSON data, managing state, plus a lot more. You can even build it out as a full-stack app!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ael6vr3wsyatqcrzxzg1.jpg",
+     "complete": false,
+     "level": 5,
+     "rank": "Guru"
+  },
+  "Crowdfunding product page": {
+     "title": "Crowdfunding product page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will test both your layout and state management skills. As visitors make pledges, your goal is to keep track of the changes.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/tbvaexdry87sqjmbzt5o.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Coffeeroasters subscription site": {
+     "title": "Coffeeroasters subscription site",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This challenge will have you building a 3-page subscription site. As part of the project, you'll create an interactive subscription page to test your JS and logic skills!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/qwfjjtc2edfogm32keno.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Interactive pricing component": {
+     "title": "Interactive pricing component",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "In this project, you'll build out an interactive pricing component complete with custom range input slider and pricing toggle. A perfect way to test your JS skills!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fp0qtspesm6i0miyqncg.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Maker pre-launch landing page": {
+     "title": "Maker pre-launch landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "Put your layout skills to the test with this landing page challenge. The only JS you'll need will be for the custom form validation on the email input.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/xpfjecrtnna43teylvoa.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Loopstudios landing page": {
+     "title": "Loopstudios landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge is perfect if you're looking to test your CSS Grid chops. Even without Grid, this project will be a fun one to help you practice your layout skills!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/f00lkcojzyklnglc3ffr.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Pomodoro app": {
+     "title": "Pomodoro app",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This Pomodoro app will provide some tricky challenges, including building a circular progress bar. You'll also build a range of customizations, like colors and fonts.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/brpylxucuonbpy2mujdy.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Launch countdown timer": {
+     "title": "Launch countdown timer",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This will be a fun one! Your challenge is to build this countdown timer. There are lots of small CSS tests in the design as well. So it should keep you busy!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/yf5s8ekgwaft5w57ju6u.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Creative agency single-page site": {
+     "title": "Creative agency single-page site",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This challenge will put your layout skills to the test with lots of overlapping elements. If you're getting confident with your CSS layouts, this will be a great project!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/elfkzwrvlhcxvoy9442f.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Todo app": {
+     "title": "Todo app",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag &amp; drop reordering for anyone wanting an extra test.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ty4ppudcq94rtgj4rv6p.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Pod request access landing page": {
+     "title": "Pod request access landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "In this challenge, you'll be building out an early access landing page that includes custom form validation.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/gaqhj5z5pdvyztzm8mwt.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Profile card component": {
+     "title": "Profile card component",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This is a perfect challenge to test your layout skills. The card layout doesn't shift, so it's also great for those that haven't dived into responsive websites yet!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/dia0o9uigiiz4gebiqps.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Clock app": {
+     "title": "Clock app",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS",
+        "API"
+     ],
+     "price": "premium",
+     "info": "This challenge will have you working with external APIs to set data based on a visitor's location. You'll also be using logic to set content depending on the time of day.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/cpub8v9o7uxugll9bwab.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Officelite coming soon site": {
+     "title": "Officelite coming soon site",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This 2-page challenge will be a perfect test if you're starting to get comfortable with your HTML &amp; CSS skills. There are a couple of small bonus challenges too!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/vn5vgcbphrtaajszr6fn.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Testimonials grid section": {
+     "title": "Testimonials grid section",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This challenge will be perfect practice for anyone wanting to test their CSS Grid skills. Grid is such a powerful addition to CSS, so it's worth getting to grips with it!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hlfgqwj3chzij3t5erjv.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Designo multi-page website": {
+     "title": "Designo multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This one's a BIG project! This challenge includes 5 different templates that make up a 7-page site. A perfect portfolio piece to show how you build multi-page websites!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/y70y9zpnrnhw9pxqbenq.jpg",
+     "complete": false,
+     "level": 5,
+     "rank": "Guru"
+  },
+  "FAQ accordion card": {
+     "title": "FAQ accordion card",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "In this challenge, you'll be building out an FAQ accordion. This is an extremely common front-end pattern, so it's a great opportunity to get some practice in!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ua4zwoxu3i9avrzrusre.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "GitHub Jobs API": {
+     "title": "GitHub Jobs API",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS",
+        "API"
+     ],
+     "price": "premium",
+     "info": "Build a fully-functional jobs board using the GitHub Jobs API. This is a great opportunity to practice JS and get to grips with a framework/library of your choice!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/dew9lns1imxv6ngmlmsq.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Room homepage": {
+     "title": "Room homepage",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This small homepage challenge packs a big punch to test your layout skills. There's also a slider in there to add a JS layer for extra practice.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/cemesnztibailziek4ly.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "PayAPI multi-page website": {
+     "title": "PayAPI multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This 4-page website will be a great test for your HTML &amp; CSS skills. You'll be building out a marketing site, complete with custom form validation throughout.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/zedk6plxdzanqoinnxla.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Social proof section": {
+     "title": "Social proof section",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This project will test your layout skills. If you're starting to get confident with Flexbox or Grid, this will provide a nice challenge!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/a0t2zk1zww7gmanfoix3.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Photosnap multi-page website": {
+     "title": "Photosnap multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "In this challenge, you'll be building the marketing site for a photo-sharing app. This will be a perfect opportunity to put your CSS Grid skills to the test!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bgjwz6i6nfnqngx7ae36.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "IP Address Tracker": {
+     "title": "IP Address Tracker",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS",
+        "API"
+     ],
+     "price": "free",
+     "info": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/zfgce1seaqfllpuktpai.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Arch Studio multi-page website": {
+     "title": "Arch Studio multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "In this challenge, you'll be building a 4-page site that will look great in any portfolio. You'll even get the chance to play with mapping APIs if you choose the bonus.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/jslds8e2heskt4ebclte.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Chat app CSS illustration": {
+     "title": "Chat app CSS illustration",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "In this challenge, you'll be building out the entire app illustration from scratch. This will seriously test your CSS skills. So give it a go if you feel confident!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/xi4n6u5jtftsy9sbukd1.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Article preview component": {
+     "title": "Article preview component",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "Practice your layout skills with this article preview component. There's lots of fun to be had playing around with animations for the sharing icons as well.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/tm7zwaa7fprabjbwbemt.jpg",
+     "complete": true,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Fylo data storage component": {
+     "title": "Fylo data storage component",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This component has some interesting CSS challenges in the design. If you're looking to test your CSS skills, this will be a great project for you!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/jve24exh4iwonznfndfc.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Coding bootcamp testimonials slider": {
+     "title": "Coding bootcamp testimonials slider",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will be a nice test if you're new to JavaScript. It's also a great opportunity to play around with content animations and transitions.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ajxwviujv7lrjghuhdxs.jpg",
+     "complete": true,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Scoot multi-page website": {
+     "title": "Scoot multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This multi-page website will really test your front-end skills. There are 4 pages to build with mobile, tablet, and desktop designs included.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/v6totnrrz9tl9fge8eyi.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Dine restaurant website": {
+     "title": "Dine restaurant website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This two-page website is perfect if you're starting to become more confident in your front-end skills. The challenge includes tricky design details and form validation.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ii2p41jbvrtktbtlhftn.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Social media dashboard with theme switcher": {
+     "title": "Social media dashboard with theme switcher",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/litdnhptrj3uurnnzj0m.jpg",
+     "complete": true,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Minimalist portfolio website": {
+     "title": "Minimalist portfolio website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This multi-page portfolio site will be a great challenge to test your all-round front-end skills. You can even use the site as your own portfolio when you're finished!",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/zdxcoacbs8uqjynxmuh4.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Job listings with filtering": {
+     "title": "Job listings with filtering",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "In this challenge, you'll be using JavaScript to filter out jobs based on the categories selected.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/i4yfvoqdzya3dlizdyfk.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Easybank landing page": {
+     "title": "Easybank landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will provide a nice test for your layout skills. If you're ready to move up from Junior challenges, this one is a great next step.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "myteam multi-page website": {
+     "title": "myteam multi-page website",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "premium",
+     "info": "This challenge will give you a real glimpse into a professional front-end developer's workflow. It includes designs for a 3-page fully-functional website.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/vivqu9zlxbcv5mgxdjxq.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Manage landing page": {
+     "title": "Manage landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will be a great test for your responsive skills. There are lots of small details and slight content shifts for different screen sizes.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/dnn0oqu9q1r6dpq2lmr8.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Insure landing page": {
+     "title": "Insure landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "Test your layout skills with this HTML &amp; CSS only landing page. This challenge is perfect if you're starting to get confident in laying out web pages.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/wmd0ftb9v4qsmladsdzv.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Pricing component with toggle": {
+     "title": "Pricing component with toggle",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will get you thinking about building an accessible custom toggle control and also test your layout skills.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/sjsrx7m77v6pxswdm0mx.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Rock, Paper, Scissors game": {
+     "title": "Rock, Paper, Scissors game",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will test your HTML, CSS and JavaScript skills. There's even a Rock, Paper, Scissors, Lizard, Spock version if you really want to challenge yourself.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hoqxujbnnumv1ildmus4.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "URL shortening API landing page": {
+     "title": "URL shortening API landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS",
+        "API"
+     ],
+     "price": "free",
+     "info": "Integrate with the shrtcode URL shortening API and play with browser storage in this landing page challenge.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/katmpcijwnmclxyfw3wr.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Four card feature section": {
+     "title": "Four card feature section",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "A nice layout-based challenge for beginners. This will test anyone who is new to multi-column and responsive layouts.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/a3b5gbgtfbtiqrdawpwp.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Base Apparel coming soon page": {
+     "title": "Base Apparel coming soon page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This layout looks simple enough, but there are some interesting details to it that will test your CSS skills. You'll also get to practice basic form validation.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/tjmihf4uv326gkkz7mbk.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Project tracking intro component": {
+     "title": "Project tracking intro component",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "Some interesting layout and code challenges are baked into this design. Perfect if you're a beginner who is starting to get a bit more confident with your layouts.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bfsviv4bu5yxoxxhwbeq.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Bookmark landing page": {
+     "title": "Bookmark landing page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge will really test your layout skills. There are also areas that will require some JavaScript, such as the tabbed features section and the FAQ accordion.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hwi1ergmy7tibqa5bvyf.jpg",
+     "complete": false,
+     "level": 3,
+     "rank": "Intermediate"
+  },
+  "Intro component with sign-up form": {
+     "title": "Intro component with sign-up form",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "Practice building out a sign-up form complete with client-side validation using JavaScript.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ficuxtmo5kmd5bb8lmws.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Single price grid component": {
+     "title": "Single price grid component",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "In this challenge, you will build out the pricing component to the designs provided. This is perfect for beginners and people who want to complete a smaller challenge.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/i6wu7n5sthrxgfpfibvx.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Clipboard landing page": {
+     "title": "Clipboard landing page",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "Put your layout skills to the test with this HTML &amp; CSS landing page challenge. This challenge includes a design for hover states.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/nem2gkhh4jptjzjb0y2y.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Ping single column coming soon page": {
+     "title": "Ping single column coming soon page",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS"
+     ],
+     "price": "free",
+     "info": "This challenge is great for beginners and offers a chance to practice basic client-side form validation.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/qjiprcu1e19yvujjrflv.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "REST Countries API with color theme switcher": {
+     "title": "REST Countries API with color theme switcher",
+     "langs": [
+        "HTML",
+        "CSS",
+        "JS",
+        "API"
+     ],
+     "price": "free",
+     "info": "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/yhq5ihanseyinzwblaw1.jpg",
+     "complete": false,
+     "level": 4,
+     "rank": "Advanced"
+  },
+  "Huddle landing page with alternating feature blocks": {
+     "title": "Huddle landing page with alternating feature blocks",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This challenge is perfect if you're wanting to practice your layout skills. If you're starting to get a bit more confident laying out a web page, give this project a go.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/y6pmwmuyxhqn0jxwgxxj.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Fylo dark theme landing page": {
+     "title": "Fylo dark theme landing page",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This design has some nice layout challenges in it. A perfect training ground to practice your Flexbox and/or Grid skills.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/mhwyzwfgaii3cw5s6jco.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Huddle landing page with a single introductory section": {
+     "title": "Huddle landing page with a single introductory section",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "A perfect challenge for beginners, this project will get you working with a two column layout.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/aaykth21moiquxkubywu.jpg",
+     "complete": false,
+     "level": 1,
+     "rank": "Newbie"
+  },
+  "Fylo landing page with two column layout": {
+     "title": "Fylo landing page with two column layout",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "This project is great if you're starting to get confident with slightly more complex layouts. The second section with the testimonial area will provide a nice challenge.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/qwzpljolfstrtrqq083p.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  },
+  "Huddle landing page with curved sections": {
+     "title": "Huddle landing page with curved sections",
+     "langs": [
+        "HTML",
+        "CSS"
+     ],
+     "price": "free",
+     "info": "Practice using pseudo-elements for styling extras and the CSS position property for the sections with curved edges.",
+     "imgURL": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/h8osxwiem1fjujhthbok.jpg",
+     "complete": false,
+     "level": 2,
+     "rank": "Junior"
+  }
+}
